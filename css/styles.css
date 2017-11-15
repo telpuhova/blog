@@ -1,0 +1,49 @@
+body {
+  font-size: 18px;
+}
+h1 {
+  font-size: 55px;
+}
+.about {
+  text-align: center;
+  padding-left: 800px;
+  font-style: italic;
+  font-size: 15px;
+  padding-bottom: 30px;
+}
+.firstPost {
+  background-color: #dfdee0;
+  padding: 50px;
+  padding-bottom: 150px;
+}
+
+.firstPost img {
+  float: right;
+  margin-right: 50px;
+  padding-left: 50px;
+}
+
+.secondPost {
+  background-color: #d1c0e2;
+  padding: 50px;
+  text-align: right;
+  padding-bottom: 100px;
+}
+
+.secondPost img {
+  float: left;
+  margin-left: 15px;
+  padding-right: 50px;
+}
+
+.thirdPost {
+  background-color: #f7d7f6;
+  padding: 50px;
+  padding-bottom: 200px;
+}
+
+.thirdPost img {
+  float: right;
+  margin-right: 50px;
+  padding-left: 50px;
+}
