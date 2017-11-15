@@ -24,7 +24,10 @@ h1 {
 }
 
 .secondPost {
+  background-image: url("../img/rain.jpg");
+  background-size: cover;
   background-color: #d1c0e2;
+  color: white;
   padding: 50px;
   text-align: right;
   padding-bottom: 100px;
@@ -37,6 +40,8 @@ h1 {
 }
 
 .thirdPost {
+  background-image: url("../img/disc.jpg");
+  background-size: cover;
   background-color: #f7d7f6;
   padding: 50px;
   padding-bottom: 200px;
